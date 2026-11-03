@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#2457A5"
+backgroundColor = "#F4F6F5"
+secondaryBackgroundColor = "#E3E9EA"
+textColor = "#17222B"
+font = "Atkinson Hyperlegible:https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap, sans-serif"
+baseRadius = "0.4rem"
+borderColor = "#C9D2D4"
+showWidgetBorder = true
+headingFontWeights = [700, 700, 700, 700, 700, 700]
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
